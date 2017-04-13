@@ -70,7 +70,7 @@ ga_domain: 198.46.242.227
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写代码做个机器人,做个机器人写代码."
+sidebar-about-description: "写代码做个机器人,<br>做个机器人写代码."
 sidebar-avatar: /img/avatar-beauty.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
