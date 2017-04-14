@@ -71,9 +71,11 @@ github上下的一个star量最大的现成框架,在服务器上运行起来就
 
 友情提示,买的普通的内存不到1G的服务器就不要考虑这个模式了,因为:
 >你丫的根本就跑不动nodejs!
+
 ### Rocblog V5 -- hexo
 ![v5截图](http://omjk76pbk.bkt.clouddn.com/rocblog/post/hey-rocblog/rocblog-v5.png)
 这个框架详细可以去百度,就不细说了.
+
 ### Rocblog V6 -- Jekyll
 ![v6截图](http://omjk76pbk.bkt.clouddn.com/rocblog/post/hey-rocblog/rocblog-v6.png)
 也就是现在用的这个,依靠着github这个大山(貌似jekyll说github是靠着他这座大山),要啥有啥,push pull啥的相当方便,
