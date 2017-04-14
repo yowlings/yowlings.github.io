@@ -24,7 +24,7 @@ tags:
 
 从此,神奇的故事就开始了.
 
-## 我的博客之旅
+# 我的博客之旅
 细数之下,到现在为止,除去那些半路夭折(要么自己都看不下去要么根本没挂出来)的博客,我总共经历了5个版本.
 ### Rocblog V1 -- 自写个人网页
 ![v1截图](http://omjk76pbk.bkt.clouddn.com/rocblog/post/hey-rocblog/rocblog-v1.png)
