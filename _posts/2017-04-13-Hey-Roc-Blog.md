@@ -56,6 +56,7 @@ What the fuck!我当时还真信了,然后就匆忙的去找我尚未谋面的�
 
 奇怪的是,经过这么多版本过去,竟然尚未留下一张网站的截图,真是一大遗憾.
 ### Rocblog V3 -- 自写个人博客模板
+![v3截图](http://omjk76pbk.bkt.clouddn.com/rocblog/post/hey-rocblog/rocblog-v3.png)
 这个算是我一个比较得意的idea了.当时我还不知道hexo和Jekyll这两个工具,只是了解了markdown这种文本编辑器的
 大部分出色的功能,觉得这是一个非常适合用于写个人博客的工具,然后在我当时主要使用的Sublime Text软件有一个markdown的
 插件,能够将markdown文件编译成一个网页.我看中了这一点,就自己写了一个博客的模板,能够在线浏览自己写的markdown格式博文
