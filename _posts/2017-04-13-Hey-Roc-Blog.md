@@ -66,6 +66,12 @@ What the fuck!我当时还真信了,然后就匆忙的去找我尚未谋面的�
 >哦,原来如此.
 
 但是,我惊诧于我那新颖的idea.
+
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://omjk76pbk.bkt.clouddn.com/xbot/video/xbot-3D.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
 ### Rocblog V4 -- nodejs
 ![v4截图](http://omjk76pbk.bkt.clouddn.com/rocblog/post/hey-rocblog/rocblog-v4s.png)
 github上下的一个star量最大的现成框架,在服务器上运行起来就好,与其说是个前端博客,不如说后台的内容管理.
