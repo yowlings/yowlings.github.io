@@ -19,6 +19,6 @@ tags:
 </video>
 
 <video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-3.png">
-      <source id="mp4" src="http://omjk76pbk.bkt.clouddn.com/xbot/video/xbot_museum_face.mp4" type="video/mp4">
+      <source id="mp4" src="http://198.46.242.227/video/xbot_museum_face.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
