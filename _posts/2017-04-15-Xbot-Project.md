@@ -14,7 +14,7 @@ tags:
 
 >xbot机器人组的使命:让机器人学会走路!
 
-##小组成立
+## 小组成立
 
 xbot机器人小组成立于2016年1月,成立之初,小组属于中国科学院软件研究所总体部的先导组.2016年7月,小组正式转到协同创新中心,作为中心的一个前沿研究分支.
 
@@ -35,7 +35,7 @@ xbot机器人小组最初成立的目标是,实现移动机器人室内自主运
 
 两个场景得到了成功的落地和应用.
 
-##初步仿真效果
+## 初步仿真效果
 
 2016年6月,室内办公室场景下的xbot运动和导航的仿真效果和初步实际运动效果已成功实现.为增强视觉效果,我在ROS的rviz工具的基础之上特添加了
 三维的环境地图.根据办公室的实际场景,通过3dmax三维效果实现软件构建了xbot的3D地图,在视觉效果层面
@@ -50,9 +50,9 @@ xbot机器人小组最初成立的目标是,实现移动机器人室内自主运
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
-##办公室场景
+## 办公室场景
 
-##软件博物馆讲解
+## 软件博物馆讲解
 
 <video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-3.png">
       <source id="mp4" src="http://198.46.242.227/video/xbot_museum_face.mp4" type="video/mp4">
