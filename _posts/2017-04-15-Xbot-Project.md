@@ -8,8 +8,6 @@ header-img: "img/post/xbot-project.png"
 catalog: true
 tags:
     - 机器人
-    - ROS
-    - xbot
 ---
 
 >xbot机器人组的使命:让机器人学会走路!
