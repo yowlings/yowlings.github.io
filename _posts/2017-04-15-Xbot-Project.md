@@ -2,7 +2,7 @@
 layout:     post
 title:      "xbot机器人项目"
 subtitle:   "xbot机器人组,让机器人学会走路."
-date:       2017-04-13 15:32:00
+date:       2017-04-15 15:32:00
 author:     "Roc"
 header-img: "img/post/xbot-project.png"
 catalog: true
@@ -56,3 +56,7 @@ xbot机器人小组最初成立的目标是,实现移动机器人室内自主运
       <source id="mp4" src="http://198.46.242.227/video/xbot_museum_face.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
+
+![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3707.JPG)
+![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3708.JPG)
+![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3709.JPG)
