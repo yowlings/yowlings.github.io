@@ -43,17 +43,19 @@ xbot机器人小组最初成立的目标是,实现移动机器人室内自主运
 将其视为固定障碍物,由地图预先加载;而像椅子,花盆,茶几之类的位置变动性较大的障碍物我们使用动态障碍物加载的方式加入地图,在程序运行过程中支持随时
 加入突然出现的障碍物.
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMjcxMzA1MzYyMA==' frameborder=0 'allowfullscreen'></iframe>
+<video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-1.png">
+      <source id="mp4" src="http://player.youku.com/embed/XMjcxMzA1MzYyMA==" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
 
 ## 办公室场景
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMjcxMzA1Nzk1Mg==' frameborder=0 'allowfullscreen'></iframe>
-
 ## 软件博物馆讲解
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMjcxMzA2MzIxMg==' frameborder=0 'allowfullscreen'></iframe>
-
-<embed src='http://player.youku.com/player.php/sid/XMjcxMzA2MzIxMg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+<video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-3.png">
+      <source id="mp4" src="http://player.youku.com/embed/XMjcxMzA2MzIxMg==" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
 
 ![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3707.JPG)
 ![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3708.JPG)
