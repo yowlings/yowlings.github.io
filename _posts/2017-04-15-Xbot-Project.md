@@ -53,6 +53,7 @@ xbot机器人小组最初成立的目标是,实现移动机器人室内自主运
 
 <iframe height=498 width=510 src='http://player.youku.com/embed/XMjcxMzA2MzIxMg==' frameborder=0 'allowfullscreen'></iframe>
 
+<embed src='http://player.youku.com/player.php/sid/XMjcxMzA2MzIxMg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 ![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3707.JPG)
 ![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3708.JPG)
