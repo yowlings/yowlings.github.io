@@ -53,9 +53,12 @@ xbot机器人小组最初成立的目标是,实现移动机器人室内自主运
 ## 软件博物馆讲解
 
 <video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-3.png">
-      <source id="mp4" src="http://player.youku.com/embed/XMjcxMzA2MzIxMg==" type="video/mp4">
+      <source id="mp4" src="http://player.youku.com/player.php/sid/XMjcxMzA2MzIxMg==/v.swf" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
+
+<embed src='http://player.youku.com/player.php/sid/XMjcxMzA2MzIxMg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+
 
 ![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3707.JPG)
 ![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3708.JPG)
