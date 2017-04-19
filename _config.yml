@@ -92,4 +92,9 @@ friends: [
         title: "廖雪峰",
         href: "http://www.liaoxuefeng.com/"
     }
+
+    {
+            title: "Red Blob Game",
+            href: "http://www.redblobgames.com/"
+    }
 ]
