@@ -44,19 +44,34 @@ xbot机器人小组最初成立的目标是,实现移动机器人室内自主运
 加入突然出现的障碍物.
 
 <video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-1.png">
-      <source id="mp4" src="http://omjk76pbk.bkt.clouddn.com/xbot/video/xbot-3D.mp4" type="video/mp4">
+      <source id="mp4" src="http://198.46.242.227/video/xbot-3D.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
 ## 办公室场景
+机器人已实现在办公室场景下的**同步定位与建图**的功能,视频中,机器人从办公室(中科院软件所四号楼一层办公区)的任意位置启动之后,激光雷达扫描机器人周围非盲区范围内的障碍物并建图.
 
-## 软件博物馆讲解
+这里,尽管激光雷达是支持360度全范围内的扫描,但是由于机器人的构造与安装因素的影响,我们所获取的范围大概在300度左右,这也已经比市面上大多数机器人的平均扫描范围270度大了,因而足够满足需求.
 
-<video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-3.png">
-      <source id="mp4" src="http://198.46.242.227/video/xbot_museum_face.mp4" type="video/mp4">
+视频中机器人逐渐在我们给的几个探测目标点的指引下探测了一大片办公室区域,最后,我们让机器人在已探测的区域当中自主规划路径和导航,成功到达机器人的起始位置.
+
+<video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-2.png">
+      <source id="mp4" src="http://198.46.242.227/video/xlab401-merge.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
+## 软件博物馆讲解
+软件博物馆讲解的视频拍摄在中科院软件所五号楼一层的软件博物馆,也是中国第一个以计算机软件为展示出内容的博物馆,博物馆从上世纪最初的计算机打孔编程,一直讲到现在的计算机高级编程技术.其中,还展出了像庞大的容量仅仅几KB的存储设备等类似的很多有意思的玩意儿.
 
-![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3707.JPG)
+让机器人带领游客参观软件博物馆,并且同步讲解每一处的展出内容,这是我们机器人实际应用实例之一.视频中,机器人从博物馆门口,通过对游客的人脸识别之后致相应的欢迎词.定点运动规划一条固定路径,带着游客慢慢参观展览,最终完成一次循环后回到博物馆门口,等待下一位游客的到来.
+<video id="video" width="100%" controls="" preload="none" poster="http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/xbot-poster-3.png">
+      <source id="mp4" src="http://198.46.242.227/video/xbot_museum_face.mp4" type="video/mp4">      
+</video>
+
+软件博物馆中的机器人,DIY自带低音炮.
+![博物馆中的机器人](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3707.JPG)
+
+机器人正在带领几名小学生参观软件博物馆,不得不说小学生们太调皮了,有时候还将机器人围得水泄不通!
 ![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3708.JPG)
+
+老师正在给学生们讲解机器人的原理,不是我哈,是我领导.
 ![](http://omjk76pbk.bkt.clouddn.com/rocblog/post/xbot-project/IMG_3709.JPG)
